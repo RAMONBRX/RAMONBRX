@@ -44,7 +44,7 @@ CRUDS de usuários e simulações de operações bancárias. </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 ###
 
