@@ -32,7 +32,15 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Sou Desenvolvedor Full Stack em formação e Analista de TI , com 1 ano de experiência em 
+desenvolvimento web com wordpress , capaz de assumir a responsabilidade na criação de plataformas de 
+ponta a ponta para clientes , e tenho sólido conhecimento em Back-End com Java, Spring Boot, POO, 
+TypeScript e bancos de dados relacionais, além de Front-End com HTML, CSS e JavaScript. Possuo um 
+perfil proativo e autogerenciável que me permite entregar projetos de forma autônoma e aprender 
+rapidamente novas tecnologias através de aplicações práticas. Como Desenvolvedor Full Stack , tenho 
+habilidade em Lógica de Programação, arquitetura modular e boas práticas de versionamento de código 
+com Git/GitHub , e isso me permite construir sistemas seguros, escaláveis e bem documentados, como 
+CRUDS de usuários e simulações de operações bancárias. </p>
 
 ###
 
